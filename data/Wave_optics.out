@@ -1,0 +1,26 @@
+\BOOKMARK [1][-]{section.1}{History of Diffraction theory}{}% 1
+\BOOKMARK [1][-]{section.2}{From a vector to a scalar theory}{}% 2
+\BOOKMARK [1][-]{section.3}{Kirchhoff diffraction}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{The Helmholtz Equation}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Green's theorem}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{The integral theorem of Helmholtz and Kirchhoff}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Kirchhoff diffraction by a planar screen}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{The Fresnel-Kirchhoff diffraction formula}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.6}{Rayleigh-Sommerfeld theory}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Fresnel and Fraunhofer Diffraction}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{The intensity of a wave field}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{The Huygens-Fresnel Principle in Rectangular Coordinates}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.3}{Fresnel Diffraction}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.4}{Positive or negative phases}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.5}{Accuracy of the Fresnel approximation}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.6}{Fraunhofer Diffraction}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.7}{Fraunhofer diffraction for thin lens model\(mirror\)}{section.4}% 17
+\BOOKMARK [1][-]{section.5}{Wavefront propagation code}{}% 18
+\BOOKMARK [2][-]{subsection.5.1}{ShadowOui}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.2}{SRW}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.3}{PHASE}{section.5}% 21
+\BOOKMARK [2][-]{subsection.5.4}{XRT}{section.5}% 22
+\BOOKMARK [2][-]{subsection.5.5}{WISE}{section.5}% 23
+\BOOKMARK [1][-]{section.6}{Other optical simulator}{}% 24
+\BOOKMARK [2][-]{subsection.6.1}{ZEMAX OpticStudio}{section.6}% 25
+\BOOKMARK [1][-]{section.7}{Reference}{}% 26

@@ -1,0 +1,86 @@
+\BOOKMARK [1][-]{section.1}{Geometrical optics}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Fermat's principle}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Reflection}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{Refraction}{subsection.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.2}{Paraxial optics}{section.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.1}{Single spherical surface}{subsection.1.2}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.2}{Paraxial approximation}{subsection.1.2}% 7
+\BOOKMARK [3][-]{subsubsection.1.2.3}{Transverse magnification}{subsection.1.2}% 8
+\BOOKMARK [3][-]{subsubsection.1.2.4}{Longitude magnification}{subsection.1.2}% 9
+\BOOKMARK [3][-]{subsubsection.1.2.5}{Angular magnification}{subsection.1.2}% 10
+\BOOKMARK [3][-]{subsubsection.1.2.6}{Relation among magnifications}{subsection.1.2}% 11
+\BOOKMARK [3][-]{subsubsection.1.2.7}{Lagrange-Helmoltz invariant}{subsection.1.2}% 12
+\BOOKMARK [3][-]{subsubsection.1.2.8}{Reflective spherical mirror}{subsection.1.2}% 13
+\BOOKMARK [3][-]{subsubsection.1.2.9}{Thin lens}{subsection.1.2}% 14
+\BOOKMARK [3][-]{subsubsection.1.2.10}{Cardinal points}{subsection.1.2}% 15
+\BOOKMARK [3][-]{subsubsection.1.2.11}{Marginal and Chief Rays}{subsection.1.2}% 16
+\BOOKMARK [3][-]{subsubsection.1.2.12}{Reference}{subsection.1.2}% 17
+\BOOKMARK [2][-]{subsection.1.3}{Aberration}{section.1}% 18
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Spherical Aberration}{subsection.1.3}% 19
+\BOOKMARK [3][-]{subsubsection.1.3.2}{Coma}{subsection.1.3}% 20
+\BOOKMARK [3][-]{subsubsection.1.3.3}{Astigmatism}{subsection.1.3}% 21
+\BOOKMARK [3][-]{subsubsection.1.3.4}{Curvature of Field}{subsection.1.3}% 22
+\BOOKMARK [3][-]{subsubsection.1.3.5}{Distortion}{subsection.1.3}% 23
+\BOOKMARK [3][-]{subsubsection.1.3.6}{Reference}{subsection.1.3}% 24
+\BOOKMARK [3][-]{subsubsection.1.3.7}{Abbe sine condition}{subsection.1.3}% 25
+\BOOKMARK [2][-]{subsection.1.4}{Index}{section.1}% 26
+\BOOKMARK [1][-]{section.2}{Aspheric surface}{}% 27
+\BOOKMARK [2][-]{subsection.2.1}{Spheric}{section.2}% 28
+\BOOKMARK [2][-]{subsection.2.2}{Aspheric}{section.2}% 29
+\BOOKMARK [2][-]{subsection.2.3}{Reference:}{section.2}% 30
+\BOOKMARK [1][-]{section.3}{Optical components}{}% 31
+\BOOKMARK [2][-]{subsection.3.1}{Refraction}{section.3}% 32
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Planar interface}{subsection.3.1}% 33
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Spherical interface \(paraxial\)}{subsection.3.1}% 34
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Spherical thin lens \(paraxial\)}{subsection.3.1}% 35
+\BOOKMARK [2][-]{subsection.3.2}{Reflection\(Mirror\)}{section.3}% 36
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Planar mirror}{subsection.3.2}% 37
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Paraboloidal mirror}{subsection.3.2}% 38
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Ellipsoidal mirror}{subsection.3.2}% 39
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Cylindrical mirror}{subsection.3.2}% 40
+\BOOKMARK [3][-]{subsubsection.3.2.5}{Spherical mirror}{subsection.3.2}% 41
+\BOOKMARK [3][-]{subsubsection.3.2.6}{Toroidal mirror}{subsection.3.2}% 42
+\BOOKMARK [2][-]{subsection.3.3}{reference}{section.3}% 43
+\BOOKMARK [2][-]{subsection.3.4}{Index}{section.3}% 44
+\BOOKMARK [1][-]{section.4}{Conic surface optical properties}{}% 45
+\BOOKMARK [1][-]{section.5}{Ray tracing}{}% 46
+\BOOKMARK [2][-]{subsection.5.1}{Ray tracing}{section.5}% 47
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Introduction}{subsection.5.1}% 48
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Reflection}{subsection.5.1}% 49
+\BOOKMARK [3][-]{subsubsection.5.1.3}{Refraction}{subsection.5.1}% 50
+\BOOKMARK [3][-]{subsubsection.5.1.4}{Reference}{subsection.5.1}% 51
+\BOOKMARK [2][-]{subsection.5.2}{Real ray tracing}{section.5}% 52
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Intersection}{subsection.5.2}% 53
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Normal vector}{subsection.5.2}% 54
+\BOOKMARK [3][-]{subsubsection.5.2.3}{Reference}{subsection.5.2}% 55
+\BOOKMARK [1][-]{section.6}{Aberration derivation}{}% 56
+\BOOKMARK [1][-]{section.7}{Ray transfer matrix analysis}{}% 57
+\BOOKMARK [1][-]{section.8}{Abbe sine condition}{}% 58
+\BOOKMARK [2][-]{subsection.8.1}{Derivation of Abbe and Herschel condition}{section.8}% 59
+\BOOKMARK [3][-]{subsubsection.8.1.1}{Abbe sine condition}{subsection.8.1}% 60
+\BOOKMARK [3][-]{subsubsection.8.1.2}{Herschel condition}{subsection.8.1}% 61
+\BOOKMARK [3][-]{subsubsection.8.1.3}{Comparsion between Abbe and Herschel}{subsection.8.1}% 62
+\BOOKMARK [3][-]{subsubsection.8.1.4}{Reference}{subsection.8.1}% 63
+\BOOKMARK [2][-]{subsection.8.2}{Modified sine relationship for spherical mirror at grazing incidence}{section.8}% 64
+\BOOKMARK [3][-]{subsubsection.8.2.1}{Reference}{subsection.8.2}% 65
+\BOOKMARK [2][-]{subsection.8.3}{generalized sine condition for Wolter type II and WS telescope}{section.8}% 66
+\BOOKMARK [1][-]{section.9}{GI focusing mirror deisgn}{}% 67
+\BOOKMARK [1][-]{section.10}{Wave optics}{}% 68
+\BOOKMARK [2][-]{subsection.10.1}{History of Diffraction theory}{section.10}% 69
+\BOOKMARK [2][-]{subsection.10.2}{From a vector to a scalar theory}{section.10}% 70
+\BOOKMARK [2][-]{subsection.10.3}{Kirchhoff diffraction}{section.10}% 71
+\BOOKMARK [3][-]{subsubsection.10.3.1}{The Helmholtz Equation}{subsection.10.3}% 72
+\BOOKMARK [3][-]{subsubsection.10.3.2}{Green's theorem}{subsection.10.3}% 73
+\BOOKMARK [3][-]{subsubsection.10.3.3}{The integral theorem of Helmholtz and Kirchhoff}{subsection.10.3}% 74
+\BOOKMARK [3][-]{subsubsection.10.3.4}{Kirchhoff diffraction by a planar screen}{subsection.10.3}% 75
+\BOOKMARK [3][-]{subsubsection.10.3.5}{The Fresnel-Kirchhoff diffraction formula}{subsection.10.3}% 76
+\BOOKMARK [3][-]{subsubsection.10.3.6}{Rayleigh-Sommerfeld theory}{subsection.10.3}% 77
+\BOOKMARK [2][-]{subsection.10.4}{Fresnel and Fraunhofer Diffraction}{section.10}% 78
+\BOOKMARK [3][-]{subsubsection.10.4.1}{The intensity of a wave field}{subsection.10.4}% 79
+\BOOKMARK [3][-]{subsubsection.10.4.2}{The Huygens-Fresnel Principle in Rectangular Coordinates}{subsection.10.4}% 80
+\BOOKMARK [3][-]{subsubsection.10.4.3}{Fresnel Diffraction}{subsection.10.4}% 81
+\BOOKMARK [3][-]{subsubsection.10.4.4}{Positive or negative phases}{subsection.10.4}% 82
+\BOOKMARK [3][-]{subsubsection.10.4.5}{Accuracy of the Fresnel approximation}{subsection.10.4}% 83
+\BOOKMARK [3][-]{subsubsection.10.4.6}{Fraunhofer Diffraction}{subsection.10.4}% 84
+\BOOKMARK [1][-]{section.11}{Q\046A}{}% 85
+\BOOKMARK [2][-]{subsection.11.1}{Question}{section.11}% 86

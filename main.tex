@@ -1,0 +1,100 @@
+\documentclass{article}
+
+% \usepackage{szutils}
+\usepackage[subpreambles=true]{standalone}
+\usepackage{import}
+\usepackage{amsmath}%insert math equation
+\usepackage{graphicx} %insert picture
+\usepackage{subcaption}%insert pictures at the same place
+\PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
+\usepackage{blindtext}
+
+\usepackage[a4paper]{geometry}
+\usepackage[section]{placeins}
+% \usepackage[subsection]{placeins}
+\usepackage{subfiles}
+\graphicspath{{images/}{./graphics/}}
+\newcommand{\abs}[1]{\left\lvert#1\right\rvert}
+
+\title{Grazing Incidence Focusing}
+\date{2018-02}
+\author{Hongjie Lu}
+\begin{document}
+
+	\maketitle
+	\pagenumbering{gobble}
+	\newpage
+	\tableofcontents
+	\newpage
+	\pagenumbering{arabic}
+	\section{Geometrical optics}
+	{\let\section\subsection
+	\let\subsection\subsubsection
+	\subfile{data/Geometrical_optics}
+	}
+	
+	\newpage
+	\section{Aspheric surface}
+	{\let\section\subsection
+	\let\subsection\subsubsection
+	\subfile{data/Aspheric_surface}
+	}
+	
+	\newpage
+	\section{Optical components}
+	{\let\section\subsection
+	\let\subsection\subsubsection
+	\subfile{data/Optical_components}
+	}
+	
+	% \newpage
+	\section{Conic surface optical properties}%spherical(Rowland circle), hyperbolic and parabolic form in polar coordinate
+
+	\newpage
+	\section{Ray tracing}
+	{\let\section\subsection
+	\let\subsection\subsubsection
+	\subfile{data/Ray_tracing}
+	}
+
+	% \newpage
+	\section{Aberration derivation}
+
+	% \newpage
+	\section{Ray transfer matrix analysis}
+
+	\newpage
+	\section{Abbe sine condition}
+	{\let\section\subsection
+	\let\subsection\subsubsection
+	\subfile{data/Abbe_sine_condition}
+	}
+	
+	%\section{One-dimension GI focusing(cylindrical)}
+	%\subsection{Spherical 1-D mirror}
+	%{\let\section\subsubsection
+	% \let\subsection\subsubsection
+	%\subfile{data/Spherical_1-D_mirror}
+	%}
+
+	\section{GI focusing mirror deisgn}
+	%\section{Kirkpatrick Baez mirror}
+	%\section{single ellipsoidal mirror}
+	%\section{Wolter type I}
+	%\section{Wolter type II}
+
+	\section{Wave optics}
+	{\let\section\subsection
+	\let\subsection\subsubsection
+	\subfile{data/Wave_optics}
+	}
+
+	\newpage
+	\section{Q\&A}
+	{\let\section\subsection
+	\let\subsection\subsubsection
+	\subfile{data/Question_and_answer}
+	}
+	% \subfile{data/Question_and_answer}
+
+\end{document}
